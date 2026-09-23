@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8caae706909b3c54a852c324",
+  "owner": "mp4svvry5",
+  "repo": "page-e726da7f578af3b1a2309842",
+  "title": "Banana5",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e726da7f578af3b1a2309842",
+      "a": "Banana5",
+      "b": "稳定全球clash加速器",
+      "entity": "Banana5",
+      "brand": "Banana5",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "874cfe6a1ae2d6bae9e7b6bb93d2903ae1a97c6b486cd3e38a01f14c755360a8",
+      "content": {
+        "primary_entity": "Banana5",
+        "keyword1": "Banana5",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，轻松导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端适配",
+          "AI_CLOSING_TEXT": "选对套餐，畅享高速连接。",
+          "AI_CLOSING_TITLE": "开始体验",
+          "AI_DESCRIPTION": "，提供多种套餐与客户端选择，根据设备数量与流量需求匹配订阅周期，轻松完成配置。",
+          "AI_FEATURES_INTRO": "三项实用特点，协助你快速定位适合的方案。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB，旗舰版300GB，团队版1000GB，按需选择。",
+          "AI_FEATURE_TEXT_2": "同时在线设备从3台到20台，满足个人与团队使用。",
+          "AI_FEATURE_TEXT_3": "年付可节省费用，基础版年付仅¥150，旗舰版¥350。",
+          "AI_FEATURE_TITLE_1": "灵活套餐",
+          "AI_FEATURE_TITLE_2": "设备支持",
+          "AI_FEATURE_TITLE_3": "年付优惠",
+          "AI_GUIDE_INTRO": "三步完成服务选择与配置，流程清晰。",
+          "AI_GUIDE_TITLE": "使用引导",
+          "AI_HERO_INTRO": "Banana5 提供多种套餐与客户端选择，根据设备数量与流量需求匹配订阅周期，轻松完成配置。",
+          "AI_HERO_SUBTITLE": "Banana5 高速稳定加速",
+          "AI_HIGHLIGHT_1": "多档套餐灵活选",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付更划算",
+          "AI_PLANS_INTRO": "三档套餐对比，按需选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制与线路特性，确认适配当前设备。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档，导入订阅地址即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Banana5 高速加速",
+          "AI_FAQ_ANSWER_1": "基础版 100GB/月、旗舰版 300GB/月、团队版 1000GB/月，按月计费，年付价格分别为 150 元、350 元与 850 元。重度流媒体使用建议选择旗舰版或团队版。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。多台设备共用同一订阅时，请留意并发数量限制，超出后新设备可能无法连接。",
+          "AI_FAQ_ANSWER_3": "在对应客户端中导入订阅链接或配置文件，保存后选择节点连接。不同系统的客户端导入方式略有差异，建议依照客户端文档操作。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线与全节点原生流媒体解锁，团队版提供 VIP 高带宽节点，适合对延迟与画质有要求的场景。基础版提供普通线路节点池，日常浏览够用。",
+          "AI_FAQ_ANSWER_5": "年付相比月付更划算，基础版年付 150 元、旗舰版 350 元、团队版 850 元。长期使用推荐直接选择年付，短期试用可先选月付再升级。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐的流量和价格分别是什么？",
+          "AI_FAQ_QUESTION_2": "每档套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "如何在客户端配置订阅？",
+          "AI_FAQ_QUESTION_4": "哪档套餐适合流媒体和游戏加速？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选更划算？",
+          "AI_FAQ_TITLE": "常见问题解答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ziranmi.cn",
+    "host": "ziranmi.cn"
+  },
+  "file_hashes": {
+    "index.html": "85f7c997ed14c4e95b953aaf728a2e47b19daf8bac4e430c765b1cfc98212d12",
+    "sitemap.xml": "723ee139dad07335c8979bbf1ab8ef06fb46f3f40d22e621a5dabf3b75c57262",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6bfa4a236fc649b67d5903a6cb7fcf0974ee0d66c84aab60cfef813bbb179956",
+    "robots.txt": "c845f975c6d8f5564f5ce190479c069ab3aafae0ffe80a7aded544b89679571d",
+    "94652ff771c991c93ae8391571851945.txt": "dd18a452375d8c554557839fc97fd2e6a14d580ba0a622682964499f522ea980"
+  },
+  "revision": "938612f570e0e4d95613c410e6a13d97c15666edce460f610657e4fd77b4f7c5"
+}
